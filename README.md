@@ -18,3 +18,11 @@ This is my first Java project built using Swing.
 1. Download the project
 2. Open in Eclipse / IntelliJ
 3. Run Calculator.java
+
+Calculator ScreenShot
+
+## Screenshot
+
+![Calculator Screenshot](Calculator Screenshot.png)
+![Calculator Working on Numbers](Check Numbers.mp4)
+

@@ -24,5 +24,5 @@ Calculator ScreenShot
 ## Screenshot
 
 ![Calculator Screenshot](media/Calculator_Screenshot.png)
-[Calculator Working on Numbers](media/Check_Numbers.mp4)
+[Calculator Working on Numbers](media/Check_Numbers.gif)
 

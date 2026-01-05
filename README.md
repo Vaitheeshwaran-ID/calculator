@@ -23,6 +23,6 @@ Calculator ScreenShot
 
 ## Screenshot
 
-![Calculator Screenshot](Calculator Screenshot.png)
-![Calculator Working on Numbers](Check Numbers.mp4)
+![Calculator Screenshot](Calculator_Screenshot.png)
+![Calculator Working on Numbers](Check_Numbers.mp4)
 

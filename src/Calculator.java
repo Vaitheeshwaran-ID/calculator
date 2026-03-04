@@ -88,7 +88,7 @@ public class Calculator implements ActionListener{
 		panel.add(numberButtons[0]);
 		panel.add(equButton);
 		panel.add(divButton);
-		
+		frsame
 		frame.add(panel);
 		frame.add(negButton);
 		frame.add(delButton);
